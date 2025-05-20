@@ -80,10 +80,8 @@ Analyze load patterns in the Northeast region for the last 48 hours.
 
 ## License
 
-[Specify your license here]
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - Inspired by Andrew Ng's AI Suite and the Model Context Protocol (MCP) community.
-
-This README provides a comprehensive guide to operating the MCP suite, adhering to best practices, and troubleshooting issues effectively.
