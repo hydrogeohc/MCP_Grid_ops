@@ -1,6 +1,6 @@
 # MCP Troubleshooting Guide
 This guide addresses common issues encountered when implementing and using the Model
-Context Protocol (MCP) for climate research applications.
+Context Protocol (MCP) for grid operations  applications.
 ## Connection Issues
 ### Server Connection Failures
 **Symptoms:**

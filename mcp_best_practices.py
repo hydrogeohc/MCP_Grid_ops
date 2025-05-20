@@ -3,7 +3,7 @@
 mcp_best_practices.py - Best Practices and Configuration Options for MCP
 
 This module provides best practices, configuration options, and utility functions
-for implementing MCP in grid operationsa applications.
+for implementing MCP in grid operations applications.
 """
 import os
 import json
